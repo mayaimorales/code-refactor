@@ -17,6 +17,8 @@ In this project, I was provided with code for a working webpage for a company ca
 
 ![ Alt Text ](/assets/website.gif)
 
+- [ Deployed Link ](https://mayaimorales.github.io/code-refactor/)
+
 ## What Was Done
 
 When examining the code initially, I saw there were a lot of <div> tags indicating seperation in the page but not clear as to what was happening. I replaced these tags with more specific elements like `<header>`, `<h1>`, `<body>`, and `<section>` to ensure clarity on what each part of the code was intended for. This was done throughout the index.html document.
