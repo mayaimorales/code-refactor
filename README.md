@@ -4,6 +4,7 @@ Improving given code for the purpose of accesibility.
 
 ## Table of Contents
 * [ Description ](#description)
+* [ Application Preview ](#application-preview)
 * [ What Was Done ](#what-was-done)
 * [ Accomplished Objectives ](#accomplished-objectives)
 * [ Contributor ](#contributor-🙌)
@@ -11,6 +12,10 @@ Improving given code for the purpose of accesibility.
 ## Description
 
 In this project, I was provided with code for a working webpage for a company called "Horiseon" that specializes in Search Engine Optimization. The code had room for improvement with semantic HTML elements to be added and to ensure better overall accessibility. I wanted to make sure to the best of my ability that I could accomplish these objectives.
+
+## Application Preview
+
+![ Alt Text ](/assets/website.gif)
 
 ## What Was Done
 
