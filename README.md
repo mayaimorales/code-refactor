@@ -8,6 +8,7 @@ Improving given code for the purpose of accesibility.
 * [ What Was Done ](#what-was-done)
 * [ Accomplished Objectives ](#accomplished-objectives)
 * [ Contributor ](#contributor-🙌)
+* [ License ](#license)
 
 ## Description
 
@@ -40,3 +41,6 @@ With the utilization of more semantic HTML elements, comments, and other needed 
 **Maya Morales** - [LinkedIn](https://www.linkedin.com/in/maya-morales-1191351bb/) - [GitHub](https://github.com/mayaimorales) - [Email](mayainomorales@gmail.com)
 
 I am an aspiring full-stack developer. Please feel free to contact me with any questions, critiques, or other inquiries.
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
